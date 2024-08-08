@@ -10,3 +10,9 @@ or either of these files:
 See <https://openjdk.org/> for more information about the OpenJDK
 Community and the JDK and see <https://bugs.openjdk.org> for JDK issue
 tracking.
+
+//20240808
+//src/jdk.unsupported/share/classes/sun/misc/Unsafe.java
+https://github.com/openjdk/jdk/blob/master/src/hotspot/share/prims/unsafe.cpp
+https://github.com/openjdk/jdk/blob/master/src/hotspot/share/prims/unsafe.hpp
+
