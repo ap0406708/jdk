@@ -13,6 +13,8 @@ tracking.
 
 //20240808
 //src/jdk.unsupported/share/classes/sun/misc/Unsafe.java
+https://github.com/ap0406708/jdk/blob/master/src/jdk.unsupported/share/classes/sun/misc/Unsafe.java
+https://github.com/ap0406708/jdk/blob/master/src/java.base/share/classes/jdk/internal/misc/Unsafe.java
 https://github.com/openjdk/jdk/blob/master/src/hotspot/share/prims/unsafe.cpp
 https://github.com/openjdk/jdk/blob/master/src/hotspot/share/prims/unsafe.hpp
 
